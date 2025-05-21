@@ -20,7 +20,7 @@ A full-stack web app that leverages the Google Gemini API to generate intelligen
 ## 🔐 Setup Instructions
  1. Clone repository:
   ```powershell
-  git clone https://github.com/your-username/chat-app.git
+  git clone https://github.com/Sanjayrawal18/InfinityAI---The-Limitless.git
   ```
 
 2. Install dependencies:
